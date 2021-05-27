@@ -1,0 +1,4 @@
+Realizar una practica de Algoritmo y Pseudocodigos
+
+Tener en cuenta los pasos a seguir, y los comandos 
+a utilizar.
