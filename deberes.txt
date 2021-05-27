@@ -2,3 +2,8 @@ Realizar una practica de Algoritmo y Pseudocodigos
 
 Tener en cuenta los pasos a seguir, y los comandos 
 a utilizar.
+
+
+el desarrollo y cambios de este archivo debe ser subido
+a github.
+

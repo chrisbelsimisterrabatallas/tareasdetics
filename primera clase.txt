@@ -2,3 +2,5 @@ Presentacion del estudiante.
 
 tematica de agrado.
 concentracion en la clase 
+
+Creacion de proyectos en la aplicacion de github.
